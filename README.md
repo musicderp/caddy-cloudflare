@@ -12,7 +12,7 @@ I'm using this image in production myself, but you may wish to fork it and deplo
 
 ## Images
 
-Includes images for regular and alpine versions of Caddy. Each are rebuilt every Monday morning at 0300 UTC from the `:latest` and `:alpine` tags respectively. Visit this repository on [Docker Hub](https://hub.docker.com/r/technoguyfication/caddy-cloudflare) to pull images.
+Includes images for regular and alpine versions of Caddy. Each are rebuilt every Monday morning at 0300 UTC from the `:latest` and `:alpine` tags respectively. Visit this repository on [Docker Hub](https://hub.docker.com/r/musicderp/caddy-custom) to pull images.
 
 ## Requirements
 1. A Cloudflare account
