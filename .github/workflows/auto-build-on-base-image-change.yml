@@ -26,7 +26,7 @@ jobs:
           tags: musicderp/caddy-custom:latest
 
   build-alpine:
-    runs-on: ubuntu-latest
+    runs-on: arm64v8/ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
